@@ -1,3 +1,4 @@
+![Capture](https://user-images.githubusercontent.com/67535751/167755098-62cf4208-89eb-41eb-9aa3-2561c9b8bb1d.PNG)
 ![Capture](https://user-images.githubusercontent.com/67535751/167755042-679db7b2-93a9-430b-83ce-63db7d97177d.PNG)
 # Anemia-App-Mongo
 # AnemiaProjectRep
@@ -26,3 +27,5 @@ Step-3:  To run: npm start
 ![Capture11](https://user-images.githubusercontent.com/67535751/163583979-68ccdd8d-b765-408a-9055-67b3bacdf378.PNG)
 ![Capture12](https://user-images.githubusercontent.com/67535751/163583984-b578c5ab-c7be-4308-9988-e9dbcea2c924.PNG)
 ![Capture13](https://user-images.githubusercontent.com/67535751/163583989-0977e2dc-0877-4991-9aaa-d7601b90d72d.PNG)
+![Capture](https://user-images.githubusercontent.com/67535751/167755131-5baf4688-dc39-432e-a3ba-d989ebf27420.PNG)
+
