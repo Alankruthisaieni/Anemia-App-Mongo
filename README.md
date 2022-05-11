@@ -26,5 +26,6 @@ Step-3:  To run: npm start
 ![Capture11](https://user-images.githubusercontent.com/67535751/163583979-68ccdd8d-b765-408a-9055-67b3bacdf378.PNG)
 ![Capture12](https://user-images.githubusercontent.com/67535751/163583984-b578c5ab-c7be-4308-9988-e9dbcea2c924.PNG)
 ![Capture13](https://user-images.githubusercontent.com/67535751/163583989-0977e2dc-0877-4991-9aaa-d7601b90d72d.PNG)
-![Capture](https://user-images.githubusercontent.com/67535751/167755131-5baf4688-dc39-432e-a3ba-d989ebf27420.PNG)
+![Capture](https://user-images.githubusercontent.com/67535751/167755269-6dfaad21-2490-45b2-8081-ed9b34fad393.PNG)
+
 
