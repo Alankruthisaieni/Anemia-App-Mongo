@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d5b4944-8142-4193-84cd-c2896ae16f1e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/cryptoapi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/cryptoapi/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/cryptoapi/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/cryptoapi/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/cryptoapi/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/cryptoapi/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/cryptoapi/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/cryptoapi/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/cryptoapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/cryptoapp/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/cryptoapp/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/cryptoapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/cryptoapp/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto_django/cryptoapp/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="ProjectId" id="27cAyCKNS22b0QobWftcXpIO7BS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d5b4944-8142-4193-84cd-c2896ae16f1e" name="Changes" comment="" />
+      <created>1649609256059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649609256059</updated>
+    </task>
+    <servers />
+  </component>
+</project>
