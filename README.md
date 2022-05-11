@@ -1,5 +1,4 @@
-![Capture](https://user-images.githubusercontent.com/67535751/167755098-62cf4208-89eb-41eb-9aa3-2561c9b8bb1d.PNG)
-![Capture](https://user-images.githubusercontent.com/67535751/167755042-679db7b2-93a9-430b-83ce-63db7d97177d.PNG)
+
 # Anemia-App-Mongo
 # AnemiaProjectRep
 
